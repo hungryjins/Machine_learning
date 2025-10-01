@@ -21,11 +21,11 @@ To address rare but critical spike days, the system augments standard forecasts 
 
 ## 🔗 Project Files & Resources
 
-| File / Document         | Description                                                                        | Status / Link                   |
-|------------------------ |------------------------------------------------------------------------------------|---------------------------------|
-| **A2 Full Project Journal** | Comprehensive report: Task Definition (A), Implementation (B), Evaluation/Reflection (C) | [A2 – Full Journal PDF](#)      |
-| **Colab Notebook**         | Self-contained code: model training, evaluation, EVT analysis                    | [Colab File](#)                 |
-| **Dataset (`crime.csv`)**  | Vancouver PD incident data (daily, 2003–2017)                                    | [Dataset CSV](#)                |
+| File / Document             | Description                                                                        | Status / Link                                                                                       |
+|-----------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **A2 Full Project Journal** | Comprehensive report: Task Definition (A), Implementation (B), Evaluation/Reflection (C) | A2 – Full Journal PDF                                                                              |
+| **Colab Notebook**          | Self-contained code: model training, evaluation, EVT analysis                      | Colab File(github repo)                                                                                         |
+| **Dataset (`crime.csv`)**   | Vancouver PD incident data (daily, 2003–2017)                                     | [Download CSV (Google Drive)](https://drive.google.com/file/d/1RO1h4JfhLKDZd6OtXeDGo0VhgkR9YZWP/view?usp=share_link) |
 
 > **Environment / Libraries:**  
 > Python 3.12 · TensorFlow 2.17+ · numpy · pandas · scipy  
@@ -48,4 +48,3 @@ To address rare but critical spike days, the system augments standard forecasts 
 - Explicit I/O contracts for deployment
 
 ---
-
